@@ -1,2 +1,3 @@
-# basic-html-templates
-No fancy frameworks. Just CSS, HTML, and the open road. Delightfully unopinionated open source templates.
+# basic-html-templates: Landing Page
+
+This is a simple CSS grid landing page with only a few styles to get you started.
